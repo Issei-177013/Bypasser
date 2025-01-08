@@ -8,21 +8,11 @@ Bypasser is a tool designed to help users bypass certain restrictions or limitat
 - Easy to use interface
 - Lightweight and fast
 
-## Installation
+## How to Run?
 
-To install Bypasser, follow these steps:
-
-1. Clone the repository:
   ```sh
-  git clone https://github.com/yourusername/Bypasser.git
+  bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/Issei_177013/Bypasser/main/Bypasser.bypasser.sh)
   ```
-
-## Usage
-
-To use Bypasser, run the following command:
-```sh
-npm start
-```
 
 ## Contributing
 
