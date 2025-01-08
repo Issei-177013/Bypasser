@@ -11,7 +11,7 @@ Bypasser is a tool designed to help users bypass certain restrictions or limitat
 ## How to Run?
 
   ```sh
-  bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/Issei_177013/Bypasser/main/Bypasser.bypasser.sh)
+  bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/Issei_177013/Bypasser/main/bypasser.sh)
   ```
 
 ## Contributing
